@@ -2,5 +2,6 @@
 Indice para el ejercicio CRUD II. Ampliación del primer CRUD que ahora incluye las estructuras ArrayList y HashMap.
 * [Amo Olson, Christian](https://github.com/christianraulamo/crud-jsp.git)-Recetas
 * [Caralt Caralt, Alejandro](https://github.com/AlejandroCaralt/CRUD-JSP-II)-Estudio de programación libre Online
+* [García Fernández, Guillermo](https://github.com/GuillermoGarcia/dam-2018-crud-ampliado-jsp-personajes-rol)-Ampliación Gestión de Partidas y Fichas de Personaje
 * [García Ruiz, Cintia](https://github.com/cyntigr/Ejercicio-CRUD.git)-Hotel de Mascotas
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/JSP-CRUD-II)-Jugadores y clubes de la liga BBVA
