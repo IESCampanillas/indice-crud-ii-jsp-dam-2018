@@ -8,3 +8,4 @@ Indice para el ejercicio CRUD II. Ampliación del primer CRUD que ahora incluye 
 * [García Ruiz, Cintia](https://github.com/cyntigr/Ejercicio-CRUD.git)-Hotel de Mascotas
 * [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/CRUD_II-con-JSP-y-MySQL/) - VideoClub MiuC: Gestión de alquileres realizados, socios y películas.
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/JSP-CRUD-II)-Jugadores y clubes de la liga BBVA
+*[Villena Gil, Juan David](https://github.com/juandavidvillena/CRUD-2)-Super Liga Orange League of Legends eSport
